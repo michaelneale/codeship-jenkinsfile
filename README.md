@@ -1,7 +1,6 @@
 # Codeship running Jenkinsfile
 
 <img src='https://www.cloudbees.com/sites/default/files/codeship-by-cloudbees.png'>
-<strong>+</strong>
 <img src='https://wiki.jenkins.io/download/attachments/2916393/logo.png'>
 
 Building on the good work by Kohsuke for one shot execution of Jenkinsfiles. 
