@@ -1,0 +1,3 @@
+- name: Jenkinsfile
+  service: projectConfig
+  command: /app/bin/jenkinsfile-runner /app/jenkins /app/plugins /workspace
