@@ -1,5 +1,7 @@
 # Codeship running Jenkinsfiles
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/c8f0a749-29bd-4942-8aa9-3185d9ef438b.svg?orgId=451115019187)](https://app.soluble.cloud/repos/details/github.com/michaelneale/codeship-jenkinsfile?orgId=451115019187)  
+
 <img src='https://www.cloudbees.com/sites/default/files/codeship-by-cloudbees.png'>
 <img src='https://wiki.jenkins.io/download/attachments/2916393/logo.png'>
 
